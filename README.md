@@ -1,9 +1,9 @@
 # Kidvision
-Inclusão com IA: sistema de reconhecimento de objetos pensado para apoiar crianças no espectro autista.
+Inclusão com IA: Sistema de reconhecimento de objetos pensado para apoiar crianças no espectro autista.
 # 👀 KidVision
 
 **KidVision** é um projeto educativo que usa **inteligência artificial** para ajudar crianças a aprender vocabulário de forma divertida e acessível.  
-A ideia é simples: a criança aponta a câmera para um objeto, o sistema **reconhece** e **fala o nome em voz alta**.  
+A ideia é simples: A criança aponta a câmera para um objeto, o sistema **reconhece** e **fala o nome em voz alta**.  
 
 Esse recurso pode ser especialmente útil para crianças em fase de alfabetização e também para apoiar o desenvolvimento de crianças no espectro autista, tornando o aprendizado mais inclusivo e interativo.  
 
